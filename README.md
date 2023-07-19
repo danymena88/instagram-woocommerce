@@ -45,6 +45,6 @@ Puedes ver el video de Youtube donde se explica a detalle sobre este proyecto.
 
 ## Screenshots
 
-![App Screenshot](https://elsalvadorvisit.com/blog-img/playa-el-zonte-la-libertad-2.jpg)
+![App Screenshot](https://smartwebtutoriales.com/wp-content/uploads/programa-python.jpg)
 
 
