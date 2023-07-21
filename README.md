@@ -6,9 +6,9 @@ Conectando esta aplicación a tu tienda de Woocommerce y a la API de Instagram p
 
 ## Funcionamiento
 
-Lo que hace la aplicación es conectarse a la tienda de Woocommerce a través de la Woo API Key y descarga la inmformación de todos los productos, luego al presionar el botón "Publicar", selecciona al azar un producto de la base de datos previamente cargada y publica en instagram el producto haciendo uso de la Instagram API key que obtienes en Facebook Developers.
+Lo que hace la aplicación es conectarse a la tienda de Woocommerce a través de la Woo API Key y descarga la información de todos los productos, luego al presionar el botón "Publicar", selecciona al azar un producto de la base de datos previamente cargada y publica en instagram el producto haciendo uso de la Instagram API key que obtienes en Facebook Developers.
 
-La publicación relizada incluye la foto del producto (la misma foto de la tienda en línea) y la descripción o el "copy" de la publicación que lo obtiene de la inmformación alternativa de la imagen o el "ALT" ya que este campo de texto permite agregar hashtags y emojis sin alterar el campo con etiquetas HTML.
+La publicación relizada incluye la foto del producto (la misma foto de la tienda en línea) y la descripción o el "copy" de la publicación que lo obtiene de la información alternativa de la imagen o el "ALT" ya que este campo de texto permite agregar hashtags y emojis sin alterar el campo con etiquetas HTML.
 ## Funcionalidades
 
 - Light/dark mode toggle
