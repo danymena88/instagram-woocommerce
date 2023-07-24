@@ -39,7 +39,7 @@ pip install auto-py-to-exe
 
 Puedes ver el video de Youtube donde se explica a detalle sobre este proyecto.
 
-[![youtube](https://img.shields.io/badge/youtube-f21d1d?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codeffee_)
+[![youtube](https://img.shields.io/badge/youtube-f21d1d?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@codeffee_](https://youtu.be/7MNPAAvZO7Q))
 
 
 
